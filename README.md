@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando em Back End
 - 🌱 Estou aprendendo HTML, CSS, JavaScript e TypeScript.
 - 📫 Como me encontrar: contatoallansaraiva@gmail.com
-- 🎮 Hobbies: jogar videogames, tocar, ler e jogar xadrez.
+- 🎮 Hobbies: jogar videogames, tocar violão, ler e jogar xadrez.
 
   <div>
   <a href="https://github.com/rafaballerini">
