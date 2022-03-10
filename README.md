@@ -1,11 +1,5 @@
 ## Olá! Eu sou Allan Saraiva 👋
 
-
-- 🔭 Atualmente estou trabalhando em Back End
-- 🌱 Estou aprendendo HTML, CSS, JavaScript e TypeScript.
-- 📫 Como me encontrar: contatoallansaraiva@gmail.com
-- 🎮 Hobbies: jogar videogames, tocar violão, ler e jogar xadrez.
-
   <div>
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allansaraiva&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
